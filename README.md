@@ -17,8 +17,7 @@ The goal of this project is to demonstrate how AI agents can convert user conver
 - Controlled Tool Execution
 
 ---
-
-## 🗂️ Project Structure
+## 📁 Project Structure
 social-to-lead-agent/
 │
 ├── main.py
