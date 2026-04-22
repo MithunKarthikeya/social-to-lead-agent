@@ -1,4 +1,4 @@
-# 🚀 Social-to-Lead Agentic Workflow – AutoStream AI Agent
+<img width="1070" height="457" alt="image" src="https://github.com/user-attachments/assets/184b2aba-82c1-4948-8f6b-629d5c84dc0b" /># 🚀 Social-to-Lead Agentic Workflow – AutoStream AI Agent
 
 ## 📌 Project Description
 This project is a conversational AI agent built for a fictional SaaS product called **AutoStream**, which provides automated video editing tools for content creators.
@@ -15,26 +15,6 @@ The goal of this project is to demonstrate how AI agents can convert user conver
 - Stateful Multi-turn Conversation
 - Lead Capture Workflow
 - Controlled Tool Execution
-
----
-## 📁 Project Structure
-social-to-lead-agent/
-│
-├── main.py
-├── agent/
-│ ├── intent.py
-│ ├── rag.py
-│ ├── state.py
-│ ├── tools.py
-│
-├── data/
-│ └── knowledge.json
-│
-├── utils/
-│ └── prompts.py
-│
-├── requirements.txt
-└── README.md
 
 ---
 
