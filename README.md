@@ -19,23 +19,23 @@ The goal of this project is to demonstrate how AI agents can convert user conver
 ---
 
 ## 🗂️ Project Structure
-social-to-lead-agent/
-│
-├── main.py
-├── agent/
-│ ├── intent.py
-│ ├── rag.py
-│ ├── state.py
-│ ├── tools.py
-│
-├── data/
-│ └── knowledge.json
-│
-├── utils/
-│ └── prompts.py
-│
-├── requirements.txt
-└── README.md
+---social-to-lead-agent/
+---│
+---├── main.py
+---├── agent/
+---│ ├── intent.py
+---│ ├── rag.py
+---│ ├── state.py
+---│ ├── tools.py
+---│
+---├── data/
+---│ └── knowledge.json
+---│
+---├── utils/
+---│ └── prompts.py
+---│
+---├── requirements.txt
+---└── README.md
 
 
 ---
